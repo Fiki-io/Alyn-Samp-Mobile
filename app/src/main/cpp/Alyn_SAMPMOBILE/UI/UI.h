@@ -2,7 +2,7 @@
 
 #define DEBUG_GUI 0
 
-#include "Encoding.h"
+#include <encoding.h>
 
 #include "ImGuiWrapper.h"
 #include "UISettings.h"

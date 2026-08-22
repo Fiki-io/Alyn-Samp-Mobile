@@ -9,5 +9,3 @@ add_subdirectory(Opus)
 add_subdirectory(Obfuscator)
 add_subdirectory(Bass)
 
-add_subdirectory(opencv)
-

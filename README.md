@@ -15,6 +15,7 @@ Released publicly and for free by the author. If you paid someone for this sourc
 
 ## Building
 
+
 - Android Studio, JDK 17, Android SDK 35, NDK **25.1.8937393**, CMake.
 - ABIs: `armeabi-v7a` + `arm64-v8a`.
 - Requires the GTA: San Andreas Android **2.10** game data on the device; the client only works with that exact build of `libGTASA.so`.
